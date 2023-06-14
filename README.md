@@ -8,7 +8,7 @@ comportamiento de la caja necesario para aplicarse un material aleatorio entre u
 materiales disponibles al inicio del juego. También se dispone de un método para dar un impulso a
 la caja en una dirección y con una fuerza aleatoria.
 
-El objeto que hace de controlador del juego “master”, debe tener una lista de las cajas que hay en la
+El objeto que hace de controlador del juego “GameManager”, debe tener una lista de las cajas que hay en la
 escena.
 
 Al presionar la barra espaciadora el controlador del juego aplicará un impulso a todas las cajas que

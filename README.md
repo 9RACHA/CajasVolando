@@ -12,6 +12,18 @@ Se utiliza para detectar si una tecla específica se ha presionado en un solo fo
 ### Foreach:
 Se utiliza para iterar sobre una colección de elementos, como un array, una lista o cualquier otra estructura que implemente la interfaz IEnumerable. Proporciona una forma sencilla de recorrer todos los elementos de una colección sin necesidad de administrar un índice o un contador.
 
+### Random.Range:
+Se utiliza para generar un número aleatorio dentro de un rango específico. Permite generar números enteros o de punto flotante en un rango cerrado o abierto.
+
+### Count:
+Obtener la cantidad de elementos en una colección, como un array, una lista, un diccionario, entre otros. Esta propiedad devuelve un valor entero que representa el número de elementos en la colección.
+
+### Rigidbody:
+Se utiliza para simular la física de objetos en un escenario en 3D. Un componente Rigidbody se puede adjuntar a un objeto en Unity para permitir que interactúe con las fuerzas físicas, como la gravedad, colisiones, fricción y movimiento.
+
+### AddForce:
+Aplicar una fuerza a un objeto físico. Permite simular el movimiento y la interacción con las fuerzas físicas, como la gravedad, colisiones y otras fuerzas externas
+
 
 Realizar un juego en Unity que muestre unas cajas (simples cubos en realidad) en la escena y
 permita hacer las siguientes funciones.

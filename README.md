@@ -24,6 +24,7 @@ Se utiliza para simular la física de objetos en un escenario en 3D. Un componen
 ### AddForce:
 Aplicar una fuerza a un objeto físico. Permite simular el movimiento y la interacción con las fuerzas físicas, como la gravedad, colisiones y otras fuerzas externas
 
+---
 
 Realizar un juego en Unity que muestre unas cajas (simples cubos en realidad) en la escena y
 permita hacer las siguientes funciones.

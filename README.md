@@ -3,8 +3,10 @@
 ## List, GetKeyDown, Foreach, Random.Range, Count, Rigidbody, AddForce
 
 ### List:
-Ofrece una amplia gama de métodos y propiedades adicionales para manipular y trabajar con listas de manera eficiente: Count, obtiene el numero de la lista.
-Remove - elimina, Sort - Ordena en orden ascendente.
+Ofrece una amplia gama de métodos y propiedades adicionales para manipular y trabajar con listas de manera eficiente:
+Count, obtiene el numero de la lista.
+Remove - elimina,
+Sort - Ordena en orden ascendente.
 
 ### GetKeyDown:
 Se utiliza para detectar si una tecla específica se ha presionado en un solo fotograma. Es comúnmente utilizado en el desarrollo de juegos para capturar la entrada del usuario y responder a eventos de teclado.
